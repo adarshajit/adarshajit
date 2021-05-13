@@ -1,6 +1,5 @@
 <h1 align="center">Hey there! I'm Adarsh Ajit 👋 </h1>
-<h3 align="center">🚀 | Student | Thinker | Dreamer | Open Source ♥ | 🚀</h3>
-
+<br/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
