@@ -5,7 +5,7 @@
 <a href="https://adarshajit.me">
 <img src="https://img.shields.io/badge/-adarshajit.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://adarshajit.me" alt="Website Badge"></a>
 
-<a href="https://www.linkedin.com/in/adarsh-ajit-2aaa5b1a5/">
+<a href="https://www.linkedin.com/in/adarsh_ajit-2aaa5b1a5/">
 <img src="https://img.shields.io/badge/-@adarsh-ajit-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adarsh-ajit-2aaa5b1a5/" alt="LinkedIn Badge">
 </a>
 
