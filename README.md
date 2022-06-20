@@ -9,8 +9,7 @@
 <img src="https://img.shields.io/badge/-@adarshajit-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adarsh-ajit-2aaa5b1a5/" alt="LinkedIn Badge">
 </a>
 
-
-<a href="https://open.spotify.com/user/eci71pqsbzrihn86wed0q5r4w?si=1OjxnadTTuWq1HJHesKvMw">
+ 
 <img src="https://img.shields.io/badge/-@adarsh_ajit-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/eci71pqsbzrihn86wed0q5r4w?si=1OjxnadTTuWq1HJHesKvMw" alt="Spotify Badge">
 </a>
 </p>
